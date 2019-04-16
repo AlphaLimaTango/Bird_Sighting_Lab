@@ -23,7 +23,3 @@ app.listen(3000, function () {
   console.log(`Listening on port ${ this.address().port }`);
 });
 
-// hi pim
-
-// we are out of sync!!
-//hey alasdair 
